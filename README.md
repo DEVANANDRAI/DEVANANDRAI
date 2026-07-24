@@ -68,16 +68,22 @@
 - 📈 Data Visualization using Matplotlib & Seaborn
 
 ---
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+
 <br>
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	
-</a>
+![](https://github-readme-stats.vercel.app/api?username=DEVANANDRAI&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+
+<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=DEVANANDRAI&theme=dracula&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVANANDRAI&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 
