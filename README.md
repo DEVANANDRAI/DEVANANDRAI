@@ -9,7 +9,9 @@
 <h4 align="center">
   Final Year B.Tech Student | Aspiring Data Scientist | Python Developer
 </h4>
-
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ## 👨‍💻 About Me
