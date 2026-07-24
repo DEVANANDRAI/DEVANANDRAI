@@ -10,6 +10,8 @@
   Final Year B.Tech Student | Aspiring Data Scientist | Python Developer
 </h4>
 <p align = "center">
+	
+  <img alt="coding" width="100%" height="30" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" />
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
