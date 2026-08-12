@@ -7,7 +7,7 @@
 </h3>
 
 <h4 align="center">
-  Final Year B.Tech Student | Aspiring Data Scientist | Python Developer
+  Final Year B.Tech Student | Aspiring Data Scientist | Python Developer |Fast API
 </h4>
 <p align = "center">
 	
