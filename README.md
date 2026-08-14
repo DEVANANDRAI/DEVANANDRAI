@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Machine Learning & Data Science Projects**
+- 🔭 I’m currently working on ##**Machine Learning & Data Science Projects**
 - 🌱 I’m currently learning **Deep Learning, NLP, Generative AI, and MLOps**
 - 👯 I’m looking to collaborate on **Open Source Data Science Projects**
 - 🤝 I’m available for **Freelancing**
